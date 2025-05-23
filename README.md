@@ -6,6 +6,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&color=36BCF7&width=435&lines=Backends+that+make+sense;Clean+architecture+with+Laravel;Problem-solving+at+scale" alt="Typing SVG" />
 </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/isa-alfares/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Isa%20Alfares-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+  </a>
+</p>
+
 
 ---
 
