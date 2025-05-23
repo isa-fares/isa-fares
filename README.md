@@ -53,12 +53,13 @@ class Isa extends BackendDeveloper
 
 - 🦷 **Dental Clinic Backend:**  
   CRUD system for services, appointments, and user feedback.
+  
+- 🧾 **Simple CRM System:**
+  A lightweight customer management system for tracking clients and their service statuses. Includes PDF invoice uploads and service filtering by completion state.
 
 - 🧹 **Cleaning Company Platform:**  
   Backend panel for content control and service requests.
-
-- 🚚 **Shipping Platform :**  
-  Order management, service categories, and feedback handling.
+  
 
 ---
 
